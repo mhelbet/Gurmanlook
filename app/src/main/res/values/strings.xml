@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GurmanlookApp</string>
+    <string name="share_recipe">share recipe</string>
+    <string name="naziv_projekta_gurmanlook">Naziv projekta: Gurmanlook</string>
+    <string name="profesor_elmedin_selmanovi">Profesor: Elmedin Selmanović</string>
+    <string name="studenti_nejra_pribinja_i_majda_helbet">Studenti: Nejra Pribinja i Majda Helbet</string>
+</resources>
